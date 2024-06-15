@@ -12,5 +12,12 @@ The Log Processor is a Python script designed to analyze log files and identify 
 
 ## Example Log File
 
-Here's an example of a log file (`log1.log`) that the script can analyze:
+Here's an example of a log file :
+
+2024-06-15 12:34:56 INFO User logged in from 192.168.1.1
+2024-06-15 12:35:00 ERROR Failed login attempt from 192.168.1.2
+2024-06-15 12:35:10 WARNING Suspicious activity from 192.168.1.3
+2024-06-15 12:35:20 WARNING Potential breach from 192.168.1.4
+2024-06-15 12:35:30 WARNING Unauthorized access from 192.168.1.5
+2024-06-15 12:35:40 INFO User logged in from 192.168.1.6
 
